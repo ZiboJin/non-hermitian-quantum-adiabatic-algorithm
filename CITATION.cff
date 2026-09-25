@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+type: software
+title: "Non-Hermitian Quantum Adiabatic Algorithm: Code and Data"
+authors:
+  - family-names: Jin
+    given-names: Zi-Bo
+  - family-names: Zhang
+    given-names: Yi
+repository-code: "https://github.com/ZiboJin/non-hermitian-quantum-adiabatic-algorithm"
+license:
+  - MIT
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Non-Hermitian Quantum Adiabatic Algorithm"
+  authors:
+    - family-names: Jin
+      given-names: Zi-Bo
+    - family-names: Zhang
+      given-names: Yi
+  year: 2026
+  journal: arXiv
+  doi: "10.48550/arXiv.2607.15343"
+  url: "https://arxiv.org/abs/2607.15343"

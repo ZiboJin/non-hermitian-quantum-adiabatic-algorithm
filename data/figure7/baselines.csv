@@ -1,0 +1,4 @@
+algorithm,p0,p0_reference,p0_midpoint,baseline_abs_error,baseline_rel_error,baseline_mode,p0_reference_source,h0_model_version,fk_input_term,steps_per_segment,integrator,norm_iters
+HMIS-HDQAA,0.005679153125597295,0.005674567029158066,0.005679153125597295,4.586096439228998e-06,0.0008081843805287531,midpoint,full_space_validation,full_fk_input_v1,,8,combined,64
+NHMIS-FKQAA,0.06602928174339294,0.06602928174339294,0.06602928174339294,0.0,0.0,midpoint,midpoint_self_reference_no_fk_input,full_fk_no_input_v1,none,8,combined,64
+NHMIS-HDQAA,0.9949884072447344,0.9949503534702214,0.9949884072447344,3.805377451293612e-05,3.824690787857996e-05,midpoint,full_space_validation,full_fk_input_v1,,8,combined,64
